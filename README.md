@@ -1,5 +1,6 @@
 # Proyecto-Final-IA
 **Titulo: Orange vs Grapefruit**
+**Grupo 7**
 **Integrantes:**
 -Juan Sebastian Barbosa 
                     -Angela Maria Benitez
