@@ -13,4 +13,4 @@ Este proyecto tiene fin como la implementacion de 4 clasificadores binarios vist
 El dataset utilizado se puede descargar de :https://www.kaggle.com/joshmcadams/oranges-vs-grapefruit/metadata
 
 **Enlace al video**
-El video del proyecto final 
+El video del proyecto final: https://youtu.be/tGxXx89I-CQ 
